@@ -31,4 +31,5 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
  ┃  ┗ 📜Teris_Game_Esp32_30pin.ino     # Main Arduino sketch
  ┣ 🎥Video mô phỏng
  ┣ 📹Video thực tế
- ┗ 📄README.md           # Project documentation
+ ┣ 🧾Tetris-Game-Console               # Project documentation
+ ┗ 📄README.md          
