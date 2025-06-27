@@ -1,2 +1,34 @@
-# Tetris-Game-Console
-Designed and built a handheld Tetris game console using an ESP32 microcontroller
+# Tetris Game on ESP32 with OLED Display
+
+## Project Description
+
+This project implements the classic Tetris game on the ESP32 30-pin development board using a 128x64 OLED display (SSD1306). The project focuses on embedded graphics, input handling, and low-level game logic implementation in C++ with the Arduino framework. The game is rendered in real time and includes support for multiple tetromino shapes, movement, rotation, collision detection, line clearing, and sound effects.
+
+## Hardware Requirements
+
+- ESP32 Dev Board (30-pin)
+- SSD1306 OLED display (I2C, 128x64 resolution)
+- Buzzer for sound output (connected to GPIO 19 by default)
+- Push buttons (for left, right, rotate, drop controls)
+- Power supply via USB or battery (depending on use case)
+
+## Software Specifications
+
+- Written in C++ using the Arduino platform
+- Uses Adafruit GFX and Adafruit SSD1306 libraries
+- Game logic includes:
+  - Piece generation and rotation (including S, Z, L, T, I, O shapes)
+  - Collision detection
+  - Row completion and clearing
+  - Score system (optional)
+  - Sound feedback for actions (click, erase)
+- Game rendering is optimized for monochrome OLED screen
+
+## File Structure
+
+```bash
+📂TetrisGameESP32
+ ┣ 📜TetrisGame.ino      # Main Arduino sketch (entry point)
+ ┣ 📜tetris.h            # Header file for constants, function declarations
+ ┣ 📜tetris.cpp          # Game logic implementation
+ ┗ 📄README.md           # Project documentation
