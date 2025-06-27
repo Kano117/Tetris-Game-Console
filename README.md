@@ -25,7 +25,7 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
 - Game rendering is optimized for monochrome OLED screen
 
 ## Video Demo
-[![Simulation Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID_1/0.jpg](https://drive.google.com/file/d/1KsWZYHLHJeuRkwepDKxBBGBrdyH2z64f/view?usp=drive_link))](youtube.com/watch?v=TtYGKUvJRxQ)
+[![Simulation Video]([https://github.com/Kano117/Tetris-Game-Console/blob/main/Picture/AnhMoPhong.png))](youtube.com/watch?v=TtYGKUvJRxQ)
 
 ## File Structure
 
