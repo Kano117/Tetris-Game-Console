@@ -27,8 +27,8 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
 ## File Structure
 
 ```bash
-📂TetrisGameESP32
- ┣ 📜TetrisGame.ino      # Main Arduino sketch (entry point)
- ┣ 📜tetris.h            # Header file for constants, function declarations
- ┣ 📜tetris.cpp          # Game logic implementation
+ ┣ 📂Teris_Game_Esp32_30pin
+ ┃  ┗ 📜Teris_Game_Esp32_30pin.ino     # Main Arduino sketch
+ ┣ 🎥Video mô phỏng
+ ┣ 📹Video thực tế
  ┗ 📄README.md           # Project documentation
