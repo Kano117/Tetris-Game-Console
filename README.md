@@ -24,8 +24,9 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
   - Sound feedback for actions (click, erase)
 - Game rendering is optimized for monochrome OLED screen
 
-## Video Demo
-[![Simulation Video](Picture/AnhMoPhong.png))](youtube.com/watch?v=TtYGKUvJRxQ)
+## Video Demo ( click the picture to watch )
+**Simulation Video**
+[![Simulation Video](Picture/AnhMoPhong.png)](youtube.com/watch?v=TtYGKUvJRxQ)
 
 ## File Structure
 
