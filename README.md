@@ -25,8 +25,7 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
 - Game rendering is optimized for monochrome OLED screen
 
 ## Video Demo
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=1](https://www.youtube.com/watch?v=TtYGKUvJRxQ)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="http://youtube.com/watch?v=TtYGKUvJRxQ?autoplay=0&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 ## File Structure
 
 ```bash
