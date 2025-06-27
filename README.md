@@ -24,16 +24,17 @@ This project implements the classic Tetris game on the ESP32 30-pin development 
   - Sound feedback for actions (click, erase)
 - Game rendering is optimized for monochrome OLED screen
 
-## Video Demo ( click the picture to watch )
-**Simulation Video**
+## Video Demo 
+**Simulation Video** ( 🎬 Click the image below to watch the demo )
 [![Simulation Video](Picture/AnhMoPhong.png)](youtube.com/watch?v=TtYGKUvJRxQ)
+
+**Hardware Demo** ( 🎬 Click the image below to watch the demo )
+[![Hardware Demo](Picture/AnhThucTe.png)](https://youtu.be/cieGwUBqGL4)
 
 ## File Structure
 
 ```bash
  ┣ 📂Teris_Game_Esp32_30pin
  ┃  ┗ 📜Teris_Game_Esp32_30pin.ino     # Main Arduino sketch
- ┣ 🎥Video mô phỏng
- ┣ 📹Video thực tế
  ┣ 🧾Tetris-Game-Console               # Project documentation
  ┗ 📄README.md          
